@@ -1,5 +1,6 @@
 <?php include "functions.php" ?>
 <?php include "includes/header.php" ?>
+    
 
 	<section class="content">
 
@@ -12,7 +13,8 @@
 
 
 	<article class="main-content col-xs-8">
-
+	
+	
 	
 	<?php  
 

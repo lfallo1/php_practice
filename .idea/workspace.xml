@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32a77896-d1f1-4ab6-9cbc-3bdf429b23bc" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_mysql/db.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_mysql/functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_mysql/includes/footer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_mysql/includes/header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_mysql/login.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_mysql/login_create.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_mysql/login_delete.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_mysql/login_read.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_mysql/login_update.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/array_functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays_assoc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blank.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class_access.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class_car.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class_car2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class_car3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class_constructor.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class_inheritance.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class_static.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/comments.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/comparison_operators.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/constants.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cookies.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dynamic_text.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/embed.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/for_loop.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/foreach.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/form.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/form_external.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/form_process.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/get.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ifstatement.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/math.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/math_functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/methods_params.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/passing_params_functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/return_values_functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scope.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/session1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/session2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/string_functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/strings_numbers.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/switch_statements.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/the_post.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/time.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/variables.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/while_loop.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_practical-app/1.php" afterPath="$PROJECT_DIR$/_practical-app/1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_practical-app/10.php" afterPath="$PROJECT_DIR$/_practical-app/10.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_practical-app/2.php" afterPath="$PROJECT_DIR$/_practical-app/2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_practical-app/3.php" afterPath="$PROJECT_DIR$/_practical-app/3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_practical-app/4.php" afterPath="$PROJECT_DIR$/_practical-app/4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_practical-app/5.php" afterPath="$PROJECT_DIR$/_practical-app/5.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_practical-app/6.php" afterPath="$PROJECT_DIR$/_practical-app/6.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_practical-app/7.php" afterPath="$PROJECT_DIR$/_practical-app/7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_practical-app/8.php" afterPath="$PROJECT_DIR$/_practical-app/8.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_practical-app/9.php" afterPath="$PROJECT_DIR$/_practical-app/9.php" />
+    </list>
+    <ignored path="demo-completed.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="demo-completed" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="form_html.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/form_html.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.20689656">
+              <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+              <folding>
+                <marker date="1465593692000" expanded="true" signature="2727:2764" placeholder="select * fro..user..." />
+                <marker date="1465593692000" expanded="true" signature="3358:3416" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/form_html.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.5" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="43" />
+    <option name="width" value="1260" />
+    <option name="height" value="701" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-completed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-completed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-completed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-completed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-completed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_practical-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.form_html.php">
+    <configuration default="false" name="form_html.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost/demo-completed/form_html.php">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.form_html.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.form_html.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32a77896-d1f1-4ab6-9cbc-3bdf429b23bc" name="Default" comment="" />
+      <created>1465591977769</created>
+      <option name="number" value="Default" />
+      <updated>1465591977769</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="43" width="1260" height="701" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18174604" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39873418" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/form_html.php</url>
+          <line>29</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/form_html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20689656">
+          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+          <folding>
+            <marker date="1465593692000" expanded="true" signature="2727:2764" placeholder="select * fro..user..." />
+            <marker date="1465593692000" expanded="true" signature="3358:3416" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

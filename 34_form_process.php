@@ -1,6 +1,6 @@
 <?php 
 
-if(isset($_POST['submit'])) {
+if(isset($_POST['newUser'])) {
     
 $name = array("Edwin", "Student", "Peter", "Samid", "Mohad", "Maria", "Jane", "tom");
     

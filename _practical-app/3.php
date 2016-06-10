@@ -24,6 +24,13 @@
 	Step 3 : Make a switch Statement that test againts one condition with 5 cases
 
  */
+    
+    $list = array(1,2,3,4,5,6,7);
+    
+    foreach($list as $n){
+        $type = $n % 2 === 0 ? 'even' : 'odd';
+        echo $n . ' ('  . $type . ')<br />';
+    }
 
 	
 ?>

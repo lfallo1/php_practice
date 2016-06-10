@@ -5,13 +5,6 @@
     <title>Document</title>
 </head>
 <body>
-
-<?php 
-    
-echo time();    
-    
-    
-?>
-
+    <h3>Welcome, guy!</h3>
 </body>
 </html>
