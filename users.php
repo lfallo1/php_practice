@@ -1,11 +1,10 @@
 <?php $title = 'Users Table' ?>
 <?php include 'my_header.php' ?>
-
+<?php include 'user_service.php'; ?>
 <body>
-    <?php
-    include 'user_dal.php';
-    $result = get_users();
-    ?>
+<?php
+    $result = user_service_get_users();
+?>
     
     <ul class="list-group">
     <?php

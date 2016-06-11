@@ -1,10 +1,10 @@
 <?php
-    include 'user_dal.php';
-    include 'form_process.php';
-?>
-<?php
     $title = 'Update User';
     include 'my_header.php' 
+?>
+<?php
+    include 'user_service.php';
+    include 'error_service.php';
 ?>
 <?php
     $success = false;
@@ -14,70 +14,23 @@
     $id = NULL;
     $password = NULL;
     if(isset($_GET['id'])){
-        echo '<br />GET PARAM: ' . $_GET['id'] . '<br />';
-        $id = $_GET['id'];
-        $user = get_by_id($id);
-        $id = $user['id'];
-        $username = $user['username'];
-        $email = $user['email'];
-        $password = $user['password'];
+        $user = user_service_get_by_id($_GET['id']);
+        if($user){
+            $username = $user['username'];
+            $email = $user['email'];
+            $password = $user['password'];   
+        }
     }
     elseif(isset($_POST['userForm'])) {
-        $id = $_POST['id'];
-        $username = $_POST['username'];
-        $email = $_POST['email'];
-        $password = $_POST['password'];
-        $errors = validate_user_form($username, $email, $password);
-
-        //if form valid, try to submit to database
-        if(count($errors) === 0){
-            if(!update_user($username, $email, $password, $id)){
-                array_push($errors, "Unable to add user");
-            }
-        }
-        if(count($errors) > 0){
-            $user = array('username'=>$username, 'email'=>$email);
-        }
-        else{
-            $success = true;
-        }
+        $errors = user_service_update_user();
     }
 ?>
 <body>
    
    <?php
-    if($success){
-        $username = NULL;
-        $email = NULL;
-        $id = NULL;
-        $password = NULL;
-        ?>
-        
-        <div class="alert alert-success"><?php echo 'Record has been updated!' ?></div>
-        
-        <?php
-    }
-    if($errors){
-        ?>
-        
-        <ul class="list-group">
-        
-        <?php 
-            foreach($errors as $e){
-            ?>    
-                
-                <li class="list-group-item text-danger">
-                    <?php echo $e ?>
-                </li>
-                
-        <?php
-            }
-        ?>
-        
-        </ul>
-        
-        <?php
-    }
+    
+    //show any form errors
+    error_service_show_errors($errors);
     
     ?>
    
