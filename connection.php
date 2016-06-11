@@ -1,4 +1,5 @@
 <?php
+
 include 'logger.php';
 
 $mysql_user = 'mysql';
@@ -13,14 +14,6 @@ if ($connection->connect_error) {
     . $connection->connect_error);
 } else {
     echo 'Success... ' . $connection->host_info . " (user: " . $mysql_user . ")\n";
-}
-
-function get_connection(){
-    global $connection;
-    if(mysqli_ping($connection)){
-        return $connection;    
-    }
-    return false;
 }
 
 ?>
